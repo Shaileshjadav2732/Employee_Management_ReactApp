@@ -2,7 +2,7 @@
 # Employee Management System in React
 
 🔗 Link
-https://shaileshjadav2732.github.io/Employee_Management_ReactApp/index.html
+https://shaileshjadav2732.github.io/Employee_Management_ReactApp/
 
 ## Table of Contents
 - [Introduction](#introduction)
